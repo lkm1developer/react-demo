@@ -1,2 +1,7 @@
 ##  React Router
-A demo that backs a  article on routing in React.
+git clone  https://github.com/lkm1developer/react-demo.git
+##  npm install
+
+##  npm run serve
+http://localhost:3000/
+ 
